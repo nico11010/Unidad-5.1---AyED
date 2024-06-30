@@ -1,0 +1,6 @@
+23        13.5      50               Televisor    
+84        27.49     75               MP3          
+146       30.37     20               Notebook     
+192       18.5      10               Iphone       
+38        20.4      20               Samsung      
+0
